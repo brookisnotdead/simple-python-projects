@@ -1,0 +1,21 @@
+# Word bank used by the Hangman game.
+words = [
+    "apple","banana","orange","grape","mango","peach","cherry","lemon","melon","berry",
+    "bread","butter","cheese","milk","coffee","sugar","salt","pepper","honey","rice",
+    "chair","table","window","door","floor","ceiling","pillow","blanket","mirror","lamp",
+    "phone","laptop","keyboard","mouse","monitor","printer","speaker","camera","tablet","charger",
+    "school","teacher","student","classroom","notebook","pencil","eraser","library","lesson","homework",
+    "python","java","coding","program","debug","compile","function","variable","loop","string",
+    "internet","website","browser","server","network","database","security","software","hardware","system",
+    "gaming","player","level","score","winner","loser","battle","mission","quest","avatar",
+    "travel","beach","mountain","island","forest","desert","river","ocean","valley","waterfall",
+    "animal","tiger","lion","elephant","giraffe","monkey","panda","zebra","kangaroo","dolphin",
+    "weather","sunshine","rainfall","thunder","lightning","storm","hurricane","tornado","climate","forecast",
+    "music","guitar","piano","drums","violin","singer","concert","melody","rhythm","harmony",
+    "movie","actor","actress","director","cinema","scene","script","drama","comedy","action",
+    "science","physics","chemistry","biology","gravity","energy","matter","atom","molecule","experiment",
+    "history","ancient","empire","kingdom","battle","revolution","culture","tradition","civilization","artifact",
+    "algorithm","debugging","framework","encryption","database","multithread","optimization","cybersecurity",
+    "architecture","virtualization","artificial","intelligence","development","application","integration","automation",
+    "infrastructure","configuration","implementation","synchronization","authentication","authorization"
+]
